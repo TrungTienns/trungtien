@@ -42,19 +42,6 @@ let developer = Developer(
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trungtien&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtien&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trungtien&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ## ⚙️ Tech Stack
 
 ### **Mobile Development**
@@ -84,39 +71,6 @@ let developer = Developer(
 
 ---
 
-## 🚀 Featured Projects
-
-### 📱 Mobile Apps
-- **[Project Name 1](https://github.com/trungtien/project1)** - Brief description of your mobile app project
-  - Built with Flutter/Swift
-  - Features: Feature 1, Feature 2, Feature 3
-  
-- **[Project Name 2](https://github.com/trungtien/project2)** - Brief description of another project
-  - Built with Swift/Kotlin
-  - Features: Feature 1, Feature 2
-
-### 🔧 Open Source Contributions
-- Contributing to open-source mobile development libraries
-- Maintaining community projects
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trungtien&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trungtien&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -138,10 +92,6 @@ let developer = Developer(
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trungtien&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <i>Thanks for visiting my profile! ⭐️</i>
